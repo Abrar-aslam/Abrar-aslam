@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abrar Aslam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"  alt="coding" width="400" src="https://thumbs.dreamstime.com/b/software-engineer-sit-chair-working-laptop-use-programming-language-code-flat-cartoon-style-vector-design-189895214.jpg">
+<h3 align="left">A passionate frontend developer from India</h3>
+<img align="right"  alt="coding" width="300" src="https://thumbs.dreamstime.com/b/software-engineer-sit-chair-working-laptop-use-programming-language-code-flat-cartoon-style-vector-design-189895214.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-aslam" /> </p>
 
