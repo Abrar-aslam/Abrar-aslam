@@ -1,42 +1,58 @@
-<h1 align="center">
-  Hi there 👋 I'm Abrar Aslam
-</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Engineer (MERN) • AI Enthusiast • Backend Developer
-</h3>
+# 👋 Hi, I'm Abrar Aslam
 
-<p align="center">
-Building scalable web applications, CRM platforms, and AI-powered solutions.
-</p>
+### 💻 Full Stack Engineer • MERN Stack • AI Enthusiast • Backend Developer
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Node.js+Backend+Developer;React+%7C+MongoDB+%7C+Express;AI+%26+Automation+Explorer;Always+Learning+Something+New+🚀" />
 
-<a href="https://linkedin.com/in/abraraslam-4313a0195">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Abrar-aslam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<a href="https://github.com/Abrar-aslam">
-<img src="https://img.shields.io/github/followers/Abrar-aslam?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://medium.com/@abraraslam8677">
-<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 📈 GitHub Activity
+# 🚀 About Me
+
+💼 Full Stack Developer with **3+ years of experience** building scalable CRM platforms and enterprise web applications.
+
+### 👨‍💻 What I Do
+
+- 🚀 Build scalable web applications
+- ⚡ Develop REST APIs using Node.js & Express
+- 📦 Optimize MongoDB queries & backend performance
+- 🤖 Explore AI-powered development using LLMs
+- 🔄 Workflow Automation using UiPath
+- 🌱 Learning System Design & Cloud Technologies
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,mysql,python,git,github,tailwind,bootstrap,docker,vscode,postman,firebase,flutter,dart&perline=9" />
+
+</div>
+
+---
+
+# 🤖 AI & Automation
+
+- OpenAI API
+- Prompt Engineering
+- AI-assisted Development
+- UiPath RPA
+- Workflow Automation
+- LLM Integration
+
+---
+
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abrar-aslam&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abrar-aslam&theme=github-compact&hide_border=true"/>
 
 </p>
 
@@ -46,118 +62,87 @@ Building scalable web applications, CRM platforms, and AI-powered solutions.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Abrar-aslam/Abrar-aslam/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Abrar-aslam/Abrar-aslam/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
-
----
-
-# 🚀 About Me
-
-- 💼 Full-Stack Developer with **3+ years** of experience building scalable CRM applications.
-- ⚛️ Specialized in **React, Node.js, Express.js, MongoDB, JavaScript**
-- 🤖 Currently exploring **Generative AI, Prompt Engineering & LLM-powered Applications**
-- 🔍 Passionate about Backend Engineering, System Design & Clean Architecture
-- 🚀 Love solving real-world business problems through software.
-- 🌍 Always learning new technologies.
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,python,git,github,tailwind,flutter,docker,vscode,postman"/>
-
-</p>
-
----
-
-# 🤖 AI & Automation
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-- Prompt Engineering
-- OpenAI API
-- AI-assisted Development
-- Workflow Automation
-- UiPath RPA
-- LLM Integration
-
----
-
-# 🎯 Currently Working On
-
-- ✅ AI-powered CRM Features
-- ✅ Backend Performance Optimization
-- ✅ MongoDB Query Optimization
-- ✅ System Design
-- ✅ Node.js Best Practices
-- ✅ Building Open Source Projects
-
----
-
-# 📌 Featured Projects
-
-### 🚀 AI CRM
-> CRM application integrated with AI-powered workflows.
-
-### 💬 Chat Application
-> Real-time chat application using MERN Stack.
-
-### 📊 Expense Tracker
-> Personal finance management application.
-
-### 🔗 URL Shortener
-> URL shortening service with analytics dashboard.
-
-### 📋 Task Management System
-> Productivity platform built using MERN Stack.
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abrar-aslam&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abrar-aslam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abrar-aslam&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abrar-aslam&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Most Used Languages
+# 💻 Most Used Languages
 
-<p align="center">
+<div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-aslam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-aslam&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abrar-aslam&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abrar-aslam&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
-</p>
+</div>
+
+---
+
+# 🎯 Current Focus
+
+✔ AI Integrated CRM
+
+✔ Backend Performance
+
+✔ System Design
+
+✔ Docker
+
+✔ AWS
+
+✔ Clean Architecture
+
+✔ Open Source
+
+---
+
+# 📌 Featured Projects
+
+### 🤖 AI CRM Platform
+Enterprise CRM with AI-powered workflows and automation.
+
+### 💬 MERN Chat Application
+Real-time messaging platform using Socket.io.
+
+### 📋 Task Management System
+Complete productivity management application.
+
+### 🔗 URL Shortener
+Short links with analytics dashboard.
+
+### 💰 Expense Tracker
+Personal finance management application.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/abraraslam-4313a0195">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@abraraslam8677">
@@ -165,31 +150,25 @@ Building scalable web applications, CRM platforms, and AI-powered solutions.
 </a>
 
 <a href="https://twitter.com/abrar_aslam_">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_HACKERRANK">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💡 Quote
+<div align="center">
 
-> **"First, solve the problem. Then, write clean and scalable code."**
+## 💡 Quote
 
----
+> **"Code. Learn. Build. Repeat."**
 
-<p align="center">
+⭐ If you like my work, consider starring my repositories!
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+🚀 Open to Full Stack • Backend • AI Opportunities
 
-🚀 Open to Full-Stack • Backend • AI Engineering Opportunities
-
-</p>
+</div>
