@@ -1,5 +1,11 @@
 <div align="center">
+# 🐍 Contribution Snake
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Abrar-aslam/Abrar-aslam/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
 # 👋 Hi, I'm Abrar Aslam
 
 ### 💻 Full Stack Engineer • MERN Stack • AI Enthusiast • Backend Developer
@@ -58,13 +64,7 @@
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Abrar-aslam/Abrar-aslam/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
 
 ---
 
