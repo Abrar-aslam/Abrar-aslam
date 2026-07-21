@@ -1,5 +1,5 @@
 <div align="center">
-# 🐍 Contribution Snake
+
 
 <p align="center">
 
